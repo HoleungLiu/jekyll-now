@@ -2,6 +2,8 @@
  -layout: post
  -title: You're up and running!
  ----
+ -![_config.yml]({{ site.baseurl }}/images/config.png)
+  
  
  
 > 在此就不介绍机器学习的概念了，请自行google，在此直接看Learning Map。
